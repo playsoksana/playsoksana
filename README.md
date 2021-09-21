@@ -1,6 +1,6 @@
 ### 😄  About me 
 <details>
-<summary>You can contact me</summary>
+<summary>YOU CAN CONTACT ME</summary>
   <ul>
     <li><a href="mailto:playsoksana@gmail.com"><img alt="Gmail" src="https://camo.githubusercontent.com/2507f2e7abe8808279ed1a76c50f0cfe045c0c30ac51ce2fab1e3a53de22684e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></li>
      <li><a href="https://www.linkedin.com/in/plyas/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/c865ad1d5303b4339da05b03cdc2a8326edaab83c6dc3f309067c4de0e1771ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742353f266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-0077B5?&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></li>
