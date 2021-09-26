@@ -1,6 +1,6 @@
 ### 😄  About me 
 
-<a href="https://github.com/playsoksana/resume" rel="nofollow">Resume</a>
+<a href="https://playsoksana.github.io/resume/" rel="nofollow">Resume</a>
 <details>
 <summary>YOU CAN CONTACT ME</summary>
   <ul>
